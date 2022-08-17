@@ -27,5 +27,8 @@
       "server": "server/main.js"
     },
     "testModule": "tests/main.js"
+  },
+  "devDependencies": {
+    "cypress": "^10.6.0"
   }
 }
